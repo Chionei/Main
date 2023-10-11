@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+<!-- HTML/CSS © k.durand 2009 --> 
+<!-- this credit MUST stay intact for use! --> 
+
+<style type="text/css">
+<!--
+body {
+   scrollbar-face-color: #dce0cf;
+   scrollbar-highlight-color: #dce0cf;
+   scrollbar-3dlight-color: #dce0cf;
+   scrollbar-darkshadow-color: #dce0cf;
+   scrollbar-shadow-color: #dce0cf;
+   scrollbar-arrow-color: #FFFFFF;
+   scrollbar-track-color: #dce0cf;
+   font-family : Calibri;
+   font-size: 11px;
+   color : #142433;
+   background-color: #295264;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+}
+
+
+table,td { 
+   font-family: Calibri;
+   font-size: 11px;
+   color: #FAD9A6;
+} 
+
+u {
+color : #295264;
+border-bottom : 0 FFE303;
+}
+
+
+p { 
+   font-family: Calibri;
+   font-size: 11px;
+   color: #FAD9A6;
+   margin-top: 1px;
+   margin-bottom: 2px;
+   margin-left: 2px;
+   margin-right: 1px;
+} 
+
+
+hr {
+   color: #c5cab3;
+   background-color: #c5cab3;
+   height: 1px;
+   width: 100%;
+}
+
+
+A:link, A:visited, A:active {
+   color: #142433;
+   font-family: Calibri;
+   font-size: 13px;
+   font-weight: 13px;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   text-decoration : none; 
+   font-weight: bold; 
+} 
+
+
+A:hover {
+   color : #FAD9A6;
+   font-family: Calibri;
+   font-size: 13px;
+   font-weight: 13px;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   text-decoration: none; 
+   font-weight: bold; 
+}
+
+
+textarea,input{
+   color: #142433;
+   font-family: Calibri;
+   font-size: 11px;
+   text-transform : none;
+   text-decoration: none; 
+   font-weight: none;
+   background-color: transparent;
+   border: 1px solid #c5cab3;
+   padding: 0px;
+   margin: 0px;
+   }
+
+
+
+h4 {
+   font-family: Calibri;
+   font-size: 11px;
+   color: #FAD9A6;
+   text-transform: none;
+   text-decoration: none; 
+   font-weight: none;
+   letter-spacing: 0px;
+}
+
+
+h5 {
+   font-family: Calibri;
+   font-size: 11px;
+   color: #FAD9A6;
+   text-transform: none;
+   text-decoration: none; 
+   font-weight: none;
+   letter-spacing: 0px;
+}
+
+
+div#container {
+   width: 500px;
+   margin: 0 auto;
+   text-align: left;
+   position: relative;
+}
+
+div#bg {
+   width: 691px;
+   height: 929px;
+   position: relative;
+   top: 0px;
+   left: -90px;
+   z-index: 1;
+   padding:0px; 
+   border: 0px #000000;
+}
+
+iframe#content{
+   width: 600px;
+   height: 400px;
+   top:425px;
+   left:35px;
+   position: absolute;
+   z-index: 2;
+   padding:0px; 
+   overflow: auto;
+}
+
+
+ 
+    -->
+  </style></head>
+
+
+<body>
+<br /><br /><br />
+
+<div id="container">
+<div id="bg"><img src="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/AS-04-11.png" border="0" width="691" height="929" usemap="#map">
+<iframe name="content" id="content" src="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" allowTransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0"></iframe>
+</div>
+</div>
+
+<br /><br /><br />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Chione -->
+<area shape="rect" coords="313,89,376,114" target="content"  href="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" />
+<area shape="rect" coords="121,116,231,137" target="content"  href="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" />
+<area shape="rect" coords="246,117,310,136" target="content"  href="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" />
+<area shape="rect" coords="324,116,397,137" target="content"  href="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" />
+<area shape="rect" coords="412,117,488,137" target="content"  href="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" />
+<area shape="rect" coords="503,116,568,137" target="content"  href="http://autumnspringchione.webs.com/MainLayoutHTML/Chione-April2011/SubPage.htm" />
+<area shape="rect" coords="45,875,189,897" target="blank" href="http://www.virtualhorseranch.com/viewranch.php?ranch=559056" />
+<area shape="rect" coords="204,874,372,898" target="blank" href="http://www.virtualhorseranch.com/viewranch.php?ranch=469138" />
+<area shape="rect" coords="388,875,517,895" target="blank" href="http://www.virtualhorseranch.com/viewranch.php?ranch=464665" />
+<area shape="rect" coords="531,876,646,896" target="blank" href="http://www.virtualhorseranch.com/viewranch.php?ranch=503123" />
+</map>
+</body>
+</html>
